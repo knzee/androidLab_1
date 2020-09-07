@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLabTSU</string>
+    <string name="update">Обновить</string>
+    <string name="login">Вход в профиль</string>
+    <string name="biometric">Войти по отпечаткам</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="loginHint">Имя пользователя</string>
+    <string name="signup">Регистрация</string>
+    <string name="signUpButton">Зарегистрироваться</string>
+    <string name="signin">Войти</string>
+    <string name="forgot">Забыли пароль?</string>
+</resources>
